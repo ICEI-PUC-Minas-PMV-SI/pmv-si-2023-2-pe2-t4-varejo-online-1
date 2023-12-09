@@ -1,7 +1,6 @@
 # Lista dos processos de negócio do sistema
 
-- Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
-
+* Processo solução 1 - Clientes - ToBe
+* Processo solução 2 - Produtos - ToBe
+* Processo solução 3 - Vendas - ToBe
 
