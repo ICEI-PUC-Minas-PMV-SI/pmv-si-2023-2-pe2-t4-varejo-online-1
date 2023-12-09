@@ -1,5 +1,5 @@
 # Varejo Online
-Projeto com o objetivo de fornecer soluções digitais para a melhoria em sistemas de varejo presenciais 
+Projeto com o objetivo de fornecer soluções digitais para a melhoria em sistemas de varejo  
 ## Integrantes
 
 * Arthur Neves da Silveira
