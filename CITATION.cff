@@ -1,18 +1,18 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Mendes
+      given-names: Lucas 
+  - family-names: Oliveira
+    given-names: Lucas 
+  - family-names: Mattos
+    given-names: Deborah 
+  - family-names: Sbenghen
+    given-names: Pedro 
+  - family-names: Silveira
+    given-names: Artur 
+  - family-names: Coimbra
+    given-names: Thiago
     
     - name-suffix: Professor
     affiliation: PUC Minas
@@ -29,9 +29,9 @@ message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
 repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+title: "Varejo Online"
 abstract: |
     "
-    Breve descrição do projeto
+    Projeto com o objetivo de apresentar soluções digitais para a área do Varejo. Com a introdução da importância e cenário geral da área e oportunidades de melhoria com a implementação das soluções propostas, o projeto vem a ilustrar os principais aspectos da área do varejo e o quão é possível evoluir através da digitalização de alguns de seus processos. 
     "
 ...
